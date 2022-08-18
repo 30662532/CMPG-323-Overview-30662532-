@@ -22,3 +22,9 @@ For project two we will implement the .gitingore file function as we will create
 For project three we will implement the .gitingore file function as we will also be using a databse
 For project four we will implement the .gitingore file function as we will also be using a databse
 For project five we will implement the .gitingore file function as we will also be using a databse
+
+#Storage of sensitive files and cridentials 
+With the help of the .gitignore file function all the sensitive files and credentials can kept be kept from the public eyes
+
+References
+SAPM: Course Blog. 2014. If you are not using a version control system, start doing it NOW![Image]. Just another Informatics Blogging Service site. https://blog.inf.ed.ac.uk/sapm/2014/02/14/if-you-are-not-using-a-version-control-system-start-doing-it-now/ Date of acess: 15 Aug. 2022.
