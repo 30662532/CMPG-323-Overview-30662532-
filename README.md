@@ -13,8 +13,8 @@ For project five I will create a repository with the name "CMPG323 Project5-3066
 For project one i will not any branching strategies
 For project two I am going to be using the Feature branching
 For project three I am going to be using the forking strategy and maybe the feature branching
-For project four i will also be using the forking strategy and the feature branching
-For project five i will also be using the forking strategy and the feature branching
+For project four i will also be using the feature branching
+For project five i will also be using the feature branching
 
 #Use of the .gitignore file 
 For one project we will not use this function as we required to input any credentials 
